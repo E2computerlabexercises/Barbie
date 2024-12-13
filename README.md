@@ -92,7 +92,6 @@
     <!-- Home Section -->
     <section id="home">
   <img src="images (2).png" alt="hello image" width="500">
-    
       <audio controls>
   <source src="Dreamy.mp3">
   Your browser does not support the audio element.
