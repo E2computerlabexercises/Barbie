@@ -82,9 +82,9 @@
 <body>
   <!-- Header Section -->
   <header>
-    <h1>LAB EXERCISES</h1>
-    <h2>E2 - COMPUTER</h2>
-    <p>Author: [Your Name]</p>
+    <h1>SANTOS, ALDRIN</h1>
+    <h2>II- INDIA</h2>
+    <p>LAB EXERCISES</p>
   </header>
 
   <!-- Main Content -->
@@ -99,14 +99,16 @@
       <h2>Plagiarism Deterred Through Information, Not Threats</h2>
       <p>By David Nagel, 02/02/10</p>
       <p>
-        Giving students a Web-based tutorial on plagiarism is more effective in deterring the behavior than threatening students with detection and punishment.
-        The study "Rational Ignorance in Education: A Field Experiment in Student Plagiarism" found that incidents of plagiarism could be reduced by 65% through a 15-minute Web-based tutorial teaching what constitutes plagiarism and how to avoid it.
+        Giving students a Web-based tutorial on plagiarism is more effective in deterring the behavior than threatening students with detection and punishment. That's according to the results of an experiment conducted by professors at the University of Michigan and Swarthmore College and published as a working paper by the National Bureau of Economic Research.
       </p>
       <p>
-        Among the control group, 3.3% of papers were flagged for plagiarism, while the frequency for the Web tutorial group dropped to about 1.3%.
+        The study, "Rational Ignorance in Education: A Field Experiment in Student Plagiarism," found that incidents of plagiarism could be reduced by as much as 65 percent when students participated in a "15-minute Web-based tutorial that [taught them] what constitutes plagiarism and how to avoid it," according to information released by the University of Michigan. The experiment was conducted by Brian Jacob, Walter H. Annenberg Professor of Education Policy in the University of Michigan Gerald R. Ford School of Public Policy, and Thomas Dee, associate professor of economics and director of the public policy program in Swarthmore College's Department of Economics.
+The experiment, which took place back in fall 2007, involved 1,200 papers written (or not) by 537 social-science and humanities undergraduates at a "selective post-secondary institution." Students in half of the courses involved in the study were required to participate in the plagiarism awareness tutorial via their Blackboard accounts, which included 18 pages of information about plagiarism followed by a quiz on the topic. It also provided advice about writing, including avoiding procrastination and taking careful notes. None of the students were made aware that they were participating in a study.
       </p>
       <p>
-        Researchers concluded that improving student knowledge reduced plagiarism rather than the fear of detection or punishment.
+        Among the control group, 3.3 percent of papers met the researchers' criteria for plagiarism (using Turnitin), while the frequency of plagiarism for the Web tutorial group was about 1.3 percent. The Web tutorials, according to the researchers, were especially effective with one high-risk group in particular: those who had lower SAT scores coming into their institution. Using the data gathered in this study, the researchers predicted a "plagiarism rate of 17.7 percent among students at the national mean of SAT scores (i.e., 1017) and 31.4 percent among students at the 25th percentile of SAT scores (i.e., 850)."
+
+Further, following the experiment, researchers conducted surveys with the students. "A follow-up survey of participating students suggests that the intervention reduced plagiarism by increasing student knowledge rather than by increasing the perceived probabilities of detection and punishment," according to the researchers. "These results are consistent with a model of student behavior in which the decision to plagiarize reflects both a poor understanding of academic integrity and the perception that the probabilities of detection and severe punishment are low."
       </p>
       <!-- Embedded Video -->
       <iframe width="560" height="315" src="https://www.youtube.com/embed/EraEV3aOMJc?si=pBxEywls6JFq2Efj" title="Plagiarism Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
