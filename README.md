@@ -121,7 +121,6 @@ Further, following the experiment, researchers conducted surveys with the studen
     <!-- Blog Section -->
     <section id="blog">
       <h2>Blog: Viruses, Malware, Spam, and Antiviruses</h2>
-      <img src="https://www.csoonline.com/wp-content/uploads/2021/06/what-is-malware.jpg" alt="Malware Image" class="blog-image">
       <p>The digital world is filled with threats like viruses, malware, and spam that can compromise personal data and system integrity. Here's an overview:</p>
       <ul>
         <li><strong>Viruses:</strong> Malicious software that damages systems and steals data.</li>
