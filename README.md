@@ -136,19 +136,19 @@ Further, following the experiment, researchers conducted surveys with the studen
         <input type="text" id="name" name="name" required>
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" required>
-        <label for="gender">Gender:</label>
-        <input type="radio" id="male" name="gender" value="male"> Male
-        <input type="radio" id="female" name="gender" value="female"> Female
-        <label for="hobbies">Favorite Colors:</label>
-        <input type="checkbox" id="pink" name="hobbies" value="pink"> Pink
-        <input type="checkbox" id="blue" name="hobbies" value="blue"> Blue
+        <label for="gender"> AGE:</label>
+        <input type="radio" id="male" name="gender" value="male"> Below 20 years old
+        <input type="radio" id="female" name="gender" value="female"> 20 years old above
+        <label for="hobbies"> What is the most convenient gadget to you:</label>
+        <input type="checkbox" id="pink" name="hobbies" value="pink"> Cellphone
+        <input type="checkbox" id="blue" name="hobbies" value="blue"> Computer
         <label for="password">Password:</label>
         <input type="password" id="password" name="password" required>
-        <label for="country">Country:</label>
+        <label for="country">Educational Level:</label>
         <select id="country" name="country">
-          <option value="philippines">Philippines</option>
-          <option value="china">China</option>
-          <option value="japan">Japan</option>
+          <option value="philippines">Elementary</option>
+          <option value="china">High School</option>
+          <option value="japan"></option>
         </select>
         <button type="submit">Submit</button>
       </form>
