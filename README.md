@@ -91,7 +91,7 @@
   <main>
     <!-- Home Section -->
     <section id="home">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/images/your-image-file.jpg" alt="Description of Image" width="500">
+  <img src="images (2).png" alt="hello image" width="500">
     
       <audio controls>
   <source src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/your-audio-file.mp3" type="audio/mpeg">
